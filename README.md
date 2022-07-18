@@ -1,4 +1,4 @@
-# Riskified-Hackaton
+# Riskified Hackathon 
 ![unnamed](https://user-images.githubusercontent.com/103519609/179472331-75ec55a5-08cf-45ca-96bf-59a21ed93c44.png)
 
 This project was created as a part of an 8 hours Hackathon about diversity and inclusion. 
