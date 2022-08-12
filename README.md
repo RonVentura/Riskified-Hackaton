@@ -32,3 +32,4 @@ We used react as a platform, you should first download the files and open them o
 Then you should create a web page of the game on your local server- the test file should execute these actions.<br>
 Note that after finishing the game, you should hit the refresh button to start over.<br>
 
+![A_Walk_In_The_Dark](https://user-images.githubusercontent.com/106140683/184290297-3aa47934-5ac0-4b91-ad82-eef8b6ba2204.JPG)
